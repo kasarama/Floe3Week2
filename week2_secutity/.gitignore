@@ -2,4 +2,4 @@
 **/nb-configuration.xml
 
 /nbproject/
-/SetupTestUsers.*
+SetupUsers.java
